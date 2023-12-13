@@ -1,11 +1,11 @@
 # estrellas
-Stars generation using OpenGL in C++
+Star generation using OpenGL in C++
 
 ## English
 
 **Estrellas** (meaning 'stars' in Spanish) is a screensaver that generates rotating stars with different sizes and number of tips.
 
-It is programmed in C++ and it is based in the graphics library OpenGL.
+It is programmed in C++ and based in the graphics library OpenGL.
 
 Its original version was an assigment created by Pablo Gallardo in December 2007 for the subject Graphics Computing of Master's Degree Computer Engineering of the University of Salamanca, Spain.
 
